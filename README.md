@@ -16,7 +16,7 @@ Before running the tests, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/amazon-web-automation.git
+   git clone https://github.com/PaulisheDike/amazon-web-automation.git
 
 2. Navigate to the project directory:
    cd amazon-web-automation
